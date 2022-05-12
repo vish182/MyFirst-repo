@@ -1,0 +1,20 @@
+D:\Anaconda\python.exe D:/PY/LP2/water.py
+Enter goal state for jug A: 2
+0   0
+Enter Rule Number: 2
+0   3
+Enter Rule Number: 8
+3   0
+Enter Rule Number: 2
+3   3
+Enter Rule Number: 6
+4   2
+Enter Rule Number: 3
+State  | Rule
+0   3  |  2
+3   0  |  8
+3   3  |  2
+4   2  |  6
+0   2  |  3
+
+Process finished with exit code 0
